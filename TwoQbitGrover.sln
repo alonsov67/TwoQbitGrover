@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoQbitGrover", "TwoQbitGrover\TwoQbitGrover.csproj", "{A49687BE-9AC5-4722-A4A5-38990F65458B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49687BE-9AC5-4722-A4A5-38990F65458B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49687BE-9AC5-4722-A4A5-38990F65458B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49687BE-9AC5-4722-A4A5-38990F65458B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49687BE-9AC5-4722-A4A5-38990F65458B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20CFA147-51E8-4535-9761-2074244324E7}
+	EndGlobalSection
+EndGlobal
